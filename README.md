@@ -1,4 +1,5 @@
 🌍 Community Connect Initiative
+
 I had the incredible opportunity to visit Jai Hind Public School, Thirumazhisai, as part of my "Community Connect" initiative. During this visit, I conducted interactive sessions to introduce school students to the fascinating world of technology and computer science. Here’s what the initiative involved:
 
 Objective: To inspire young minds and spark their interest in technology, coding, and problem-solving.
