@@ -9,7 +9,7 @@
 - 🌐 **Internet & Cyber Safety** – Educate about safe browsing and responsible internet use.
 - 🛠️ **Hands-on Learning** – Engage students with practical exercises and real-world applications.
 - 🤝 **Encourage Collaboration** – Promote teamwork through group projects and discussions.
-
+  
 ## 🏫 Teaching Curriculum
 ### **Week 1: Introduction to Computers**
 - Understanding hardware and software
