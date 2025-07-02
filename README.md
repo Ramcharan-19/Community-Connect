@@ -4,7 +4,7 @@
 **Community Connect** is an initiative where I worked at **Jai Hind Public School, Thirumazhisai** for **5 weeks**, teaching school children **Computer Science and Technology**. The goal was to introduce students to fundamental digital skills, problem-solving, and hands-on coding experiences.
 
 ## 🎯 Objectives
-- 🖥️ **Introduce Basic Computing Concepts** – Familiarize students with computers and their applications/
+- 🖥️ **Introduce Basic Computing Concepts** – Familiarize students with computers and their applications.
 - 💡 **Fundamentals of Coding** – Teach programming basics using interactive tools.
 - 🌐 **Internet & Cyber Safety** – Educate about safe browsing and responsible internet use.
 - 🛠️ **Hands-on Learning** – Engage students with practical exercises and real-world applications.
